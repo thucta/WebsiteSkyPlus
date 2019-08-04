@@ -1,7 +1,7 @@
 package entity;
 
 public class City {
-	
+	// again, it's meeeeeeeee- Ivy moda
 	private String SolrID ;
 	private String ID;
 	private String Title;
